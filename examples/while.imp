@@ -1,0 +1,7 @@
+
+func print_int(a: int): int = "print_int"
+func read_int(): int = "read_int"
+
+while (read_int()) {
+  print_int(read_int() + read_int())
+}

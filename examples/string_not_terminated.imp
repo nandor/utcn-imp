@@ -1,0 +1,2 @@
+
+func print_int(a: int): int = "print_int

@@ -1,0 +1,9 @@
+
+func print_int(a: int): int = "print_int"
+func read_int(): int = "read_int"
+
+func test(a: int, b: int): int {
+  return a + b
+}
+
+print_int(test(read_int(), read_int()))
