@@ -24,7 +24,7 @@ make
 To run the interpreter, provide it with a path to an *Imp* source file:
 
 ```
-./Debug/img examples/io.imp
+./Debug/imp examples/io.imp
 ```
 
 ### The Imp language
